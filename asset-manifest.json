@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/michaelgaming90/Treasurer.git/static/css/main.1aadecb5.css",
+    "main.js": "/michaelgaming90/Treasurer.git/static/js/main.5a568c0e.js",
+    "index.html": "/michaelgaming90/Treasurer.git/index.html",
+    "main.1aadecb5.css.map": "/michaelgaming90/Treasurer.git/static/css/main.1aadecb5.css.map",
+    "main.5a568c0e.js.map": "/michaelgaming90/Treasurer.git/static/js/main.5a568c0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aadecb5.css",
+    "static/js/main.5a568c0e.js"
+  ]
+}
